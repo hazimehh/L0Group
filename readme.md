@@ -1,7 +1,7 @@
 ## Grouped Variable Selection with Discrete Optimization
 ### Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko
 
-More details will be added soon.
+This is the accompanying code for our paper [Grouped Variable Selection with Discrete Optimization: Computational and Statistical Perspectives](https://arxiv.org/abs/2104.07084). More details will be added soon.
 
 ## Installation
 The package is written in Python 3. It requires the following prerequisites:
