@@ -1,5 +1,10 @@
+## Grouped Variable Selection with Discrete Optimization
+### Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko
+
+More details will be added soon.
+
 ## Installation
-Our package is written in Python 3. It requires the following prerequisites:
+The package is written in Python 3. It requires the following prerequisites:
 - numpy
 - scipy
 - numba
